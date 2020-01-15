@@ -1,4 +1,6 @@
-# testcomponents
+# 手动实现了带校验的Form表单
+ 
+Form的样式没做 只是先把基本功能实现了，后续会在组件库的项目中去实现样式，相关博客地址在[这里](http://wa-app.gitee.io/gitbook/js/form.html)
 
 ## Project setup
 ```
@@ -14,16 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
